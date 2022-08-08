@@ -7,7 +7,7 @@ import (
 
 	"github.com/codingsince1985/checksum"
 	log "github.com/sirupsen/logrus"
-	"gopkg.in/yaml.v2"
+	"gopkg.in/yaml.v3"
 )
 
 // Config holds all configurable options
